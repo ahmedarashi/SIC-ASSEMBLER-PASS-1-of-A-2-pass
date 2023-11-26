@@ -1,0 +1,23 @@
+
+
+         SYMTAB
+_________
+|  LABEL   |  LOCATION  |
+|-----------------------|
+|  FIRST   |   1000 H   |
+|  CLOOP   |   1003 H   |
+|  ENDFIL  |   1015 H   |
+|  EOF     |   102A H   |
+|  THREE   |   102D H   |
+|  ZERO    |   1030 H   |
+|  RETADR  |   1033 H   |
+|  LENGTH  |   1036 H   |
+|  BUFFER  |   1039 H   |
+|  RDREC   |   2039 H   |
+|  RLOOP   |   203F H   |
+|  EXIT    |   2057 H   |
+|  INPUT   |   205D H   |
+|  MAXLEN  |   205E H   |
+|  WRREC   |   2061 H   |
+|  WLOOP   |   2064 H   |
+|  OUTPUT  |   2079 H   |
